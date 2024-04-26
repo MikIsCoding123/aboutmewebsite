@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+.body {
+  background-color: black;
+}
+.wh {
+  color: white;
+}
+.rd {
+  color: red;
+}
+.or {
+  color: orange;
+}
+.aqua {
+  color: aqua
+}
+.gr {
+  color: #4aff3d;
+}
+.bpr {
+  background-color: black;
+  border-radius: 20px;
+  border: 2px solid white;
+}
